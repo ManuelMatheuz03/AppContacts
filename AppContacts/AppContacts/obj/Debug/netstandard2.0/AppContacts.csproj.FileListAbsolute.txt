@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\bin\Debug\netstandard2.0\AppContacts.deps.json
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\bin\Debug\netstandard2.0\AppContacts.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\obj\Debug\netstandard2.0\AppContacts.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\obj\Debug\netstandard2.0\AppContacts.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\obj\Debug\netstandard2.0\AppContacts.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\obj\Debug\netstandard2.0\AppContacts.AssemblyInfo.cs
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\bin\Debug\netstandard2.0\AppContacts.pdb
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\obj\Debug\netstandard2.0\AppContacts.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts\obj\Debug\netstandard2.0\AppContacts.pdb
