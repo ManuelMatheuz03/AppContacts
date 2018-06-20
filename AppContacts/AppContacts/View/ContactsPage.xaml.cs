@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using AppContacts.ViewModel;
+
 namespace AppContacts.View
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
@@ -15,7 +16,11 @@ namespace AppContacts.View
 		public ContactsPage ()
 		{
 			InitializeComponent ();
-            this.BindingContext = new ContactsPageViewModel(Navigation);
 		}
-	}
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            this.BindingContext = new ContactsPageViewModel(Navigation);
+        }
+    }
 }

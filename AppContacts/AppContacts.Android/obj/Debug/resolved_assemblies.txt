@@ -2,9 +2,17 @@ C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Andro
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\AppContacts.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\FormsViewGroup.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Mono.Android.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\mscorlib.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Plugin.Connectivity.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\SQLite-net.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\SQLitePCL.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\SQLitePCL.Ext.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\SQLitePCLRaw.core.dll
@@ -12,6 +20,9 @@ C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Andro
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Core.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Net.Http.Extensions.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Net.Http.Primitives.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Xml.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Xml.Linq.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
@@ -46,7 +57,6 @@ C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Andro
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.IO.Compression.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Net.Http.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Runtime.Serialization.Xml.dll
@@ -71,5 +81,10 @@ C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Andro
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Net.Primitives.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Globalization.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Text.Encoding.dll
+C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\System.Linq.Queryable.dll
 C:\Users\user\source\repos\AppContacts\AppContacts\AppContacts\AppContacts.Android\obj\Debug\android\assets\Mono.Security.dll

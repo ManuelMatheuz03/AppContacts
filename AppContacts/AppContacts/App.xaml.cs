@@ -11,26 +11,26 @@ namespace AppContacts
 {
 	public partial class App : Application
 	{
-        private static ContactDataBase dataBase;
+        //private static ContactDataBase dataBase;
 
-        public static ContactDataBase DataBse
-        {
-            get
-            {
-                if (dataBase == null)
-                {
-                    try
-                    {
-                        dataBase = new ContactDataBase(DependencyService.Get<IFileHelpers>().GetLocalFilePath("Contacts.db3"));
-                    }
-                    catch (Exception ex)
-                    {
-                        Debug.WriteLine(ex.Message);
-                    }
-                }
-                return dataBase;
-            }
-        }
+        //public static ContactDataBase DataBse
+        //{
+        //    get
+        //    {
+        //        if (dataBase == null)
+        //        {
+        //            try
+        //            {
+        //                dataBase = new ContactDataBase(DependencyService.Get<IFileHelpers>().GetLocalFilePath("Contacts.db3"));
+        //            }
+        //            catch (Exception ex)
+        //            {
+        //                Debug.WriteLine(ex.Message);
+        //            }
+        //        }
+        //        return dataBase;
+        //    }
+        //}
 		public App ()
 		{
 			InitializeComponent();
